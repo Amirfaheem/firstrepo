@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> My First File on github</title>
+<body>
+<h1>My Firstrepo</h1>
+<p>I am practicing html and css code in this file. I have decided to add various codes in this file <br /> 
+so that i could use them for my working with other teammates. <br /> </p>
+<h2>My Teammates Name</h2>
+<p>Following is the list of my teammates:</p>
+<ol>
+  <li>Amir Faheem</li>
+  <li>GM Sandhu</li>
+  <li>Salwa Sadia</li>
+  <li>Jamale Mujtaba</li></ol>
+  <p>The following is the list of tasks which will be completed via above teammates.</p>
+  <ul>
+      <li>new file</li>
+      <li>edit any file</li>
+      <li>commit</li>
+      <li>log</li>
+      <li>stage</li>
+
+
+
+</head>
+<b>
+
+
+</body>
+</html>
